@@ -1,3 +1,3 @@
 package logger
 
-var Version = "v2.0.4"
+var Version = "v2.0.6"
